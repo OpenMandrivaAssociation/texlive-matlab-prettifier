@@ -1,6 +1,6 @@
 Name:		texlive-matlab-prettifier
 Version:	34323
-Release:	1
+Release:	2
 Summary:	Pretty-print Matlab source code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matlab-prettifier
