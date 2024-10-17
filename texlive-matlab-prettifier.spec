@@ -3,7 +3,7 @@ Version:	34323
 Release:	2
 Summary:	Pretty-print Matlab source code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matlab-prettifier
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/matlab-prettifier
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matlab-prettifier.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matlab-prettifier.doc.r%{version}.tar.xz
